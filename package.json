@@ -12,7 +12,7 @@
     "Flux",
     "AngularJS",
     "angular.js",
-    "angular-flux",
+    "angular-flux"
   ],
   "repository": {
     "type": "git",
