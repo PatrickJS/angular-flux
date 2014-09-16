@@ -1,0 +1,25 @@
+{
+  "name": "angular-flux",
+  "version": "0.0.0",
+  "description": "Flux Application Architecture for Angular.js allow AngularJS apps to have unidirectional data flow in a single direction, in a cycle",
+  "homepage": "https://github.com/gdi2290/angular-flux",
+  "authors": [
+    "gdi2290 <github@gdi2290.com>"
+  ],
+  "keywords": [
+    "gdi2290",
+    "PatrickJS",
+    "Flux",
+    "AngularJS",
+    "angular.js",
+    "angular-flux",
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
